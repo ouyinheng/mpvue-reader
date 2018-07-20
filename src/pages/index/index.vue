@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-
+    <div class="view"></div>
   </div>
 </template>
 
@@ -28,6 +28,10 @@ export default {
 }
 </script>
 
-<style scoped>
-
+<style scoped lang="scss">
+  .container {
+    .view {
+      
+    }
+  }
 </style>
